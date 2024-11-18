@@ -13,7 +13,7 @@ A recipe site
 ### Links
 
 - Solution URL: https://github.com/thecodefan/Recipe-site
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:https://thecodefan.github.io/Recipe-site/
 
 ## My process
 
